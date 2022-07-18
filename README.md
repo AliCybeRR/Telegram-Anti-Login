@@ -43,6 +43,7 @@ $ python3 AliCybeRR.py
 ```
 # [ 📸Images]
 <img src="Anti.png" /><br>
+<img src="Admin.png" /><br>
 # [🕯 Support 🕯]
 
 My Telegram => <a href="https://T.me/AliCybeRR_KabiRR">here</a>
