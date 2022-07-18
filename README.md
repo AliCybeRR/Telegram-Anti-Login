@@ -22,9 +22,9 @@ $ apt install python -y
 
 $ apt install git
 
-$ git clone https://github.com/AliCybeRR/Anti-Login
+$ git clone https://github.com/AliCybeRR/Telegram-Anti-Login
 
-$ cd Anti-Login
+$ cd Telegram-Anti-Login
 
 $ pip install -r requirements.txt
 
@@ -36,8 +36,8 @@ $ python AliCybeRR.py
 $ sudo apt-get update -y
 $ sudo apt-get upgrade -y
 $ sudo apt-get install python3 -y
-$ git clone Anti-Login
-$ cd Anti-Login
+$ git clone https://github.com/AliCybeRR/Telegram-Anti-Login
+$ cd Telegram-Anti-Login
 $ pip3 install -r requirements.txt
 $ python3 AliCybeRR.py
 ```
