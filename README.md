@@ -28,6 +28,9 @@ $ cd Telegram-Anti-Login
 
 $ pip install -r requirements.txt
 
+change line 14 & 31 
+$ nano AliCybeRR.py 
+
 $ python AliCybeRR.py 
 ```
 
@@ -39,6 +42,8 @@ $ sudo apt-get install python3 -y
 $ git clone https://github.com/AliCybeRR/Telegram-Anti-Login
 $ cd Telegram-Anti-Login
 $ pip3 install -r requirements.txt
+change line 14 & 31 
+$ nano AliCybeRR.py 
 $ python3 AliCybeRR.py
 ```
 # [ 📸Images]
