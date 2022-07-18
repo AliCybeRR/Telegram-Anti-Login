@@ -1,4 +1,4 @@
-#  [ Anti-LogiN v.1 ]
+#  [ Anti-LogiN v.1.0 ]
 
 🇮🇷AliCybeRR🇮🇷 
 
